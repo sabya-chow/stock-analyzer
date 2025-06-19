@@ -3,3 +3,5 @@ pandas
 langchain
 pypdf
 unstructured
+ipykernel
+
